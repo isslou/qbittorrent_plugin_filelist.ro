@@ -1,0 +1,43 @@
+Motor de căutare neoficial pentru qBittorrent (> = 2.6.3)
+Tracker: FileList (http://www.filelist.ro)
+Autentificarea  (nume de utilizator / parola) folosind cookie-uri.
+
+Cum se instalează:
+
+1)  - Deschideți scriptul filelist.py într-un editor de text.
+    - Se inlocuieste în liniile 46 si 48 (numele de utilizator și parola care le aveți la site-ul filelist.ro).
+    - Salvați scriptul filelist.py (fara a schimba numele).
+
+
+2) - deschideți qBittorrent și faceți clic pe tab-ul Caută (Search).
+    - Apoi, faceți clic pe butonul [Motoare de cautare ...] (Search Engines...) (din partea dreapta jos a tab-ului).
+    - Alegeți [Instalează unul nou] (Install a new one), apoi [Fișier local] (Local file) și selectați scriptul filelist.py.
+   
+
+Cum se dezinstalează:
+    - Deschideți qBittorrent și faceți clic pe tab-ul Caută (Search).
+    - Apoi, faceți clic pe butonul [Motoare de cautare ...] (Search Engines...)(din partea dreapta jos a tab-ului).
+    - Selectați motorul de căutare filelist, apoi faceți clic dreapta pe el și selectați Dezinstalează (Uninstall).
+
+
+Extra Search Engine for qBittorrent (>= 2.6.3)
+Tracker : Filelist (http://www.filelist.ro)
+Authentication by login (username/password) using cookies.
+
+HOW TO INSTALL:
+
+1) REQUIRED:
+   - Open the filelist.py script in a text-file editor.
+   - Fill in your data in the 46th and 48th lines (username and password).
+   - Save the filelist.py script (without changing his name).
+
+
+2) - Open qBittorrent and click on the Search tab.
+   - Then, click on the [Search Engines...] button (at the bottom right of the tab).
+   - Choose [Install a new one], then [Local file] and select the filelist.py script.
+   
+
+HOW TO UNINSTALL:
+   - Open qBittorrent and click on the Search tab.
+   - Then, click on the [Search Engines...] button (at the bottom right of the tab).
+   - Select the filelist Search Engine, then right-click on, and choose Uninstall.
